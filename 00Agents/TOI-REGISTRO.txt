@@ -1,5 +1,5 @@
 TOI — 00Agents PROJECT & AGENT REGISTRATION
-Version 0.1.0 | Date 2026-10-30 | Status ACTIVE / DEVELOP
+Version 0.1.1 | Date 2026-10-30 | Status ACTIVE / DEVELOP
 
 [PROJECT]
 ID: TOI
@@ -30,6 +30,18 @@ Independent: source upload Carta de un muerto.txt, whose internal title is Los n
 Tool v0.1/v0.2: skill/plugin archived source and installed v0.2 inspected; publication and validation separate.
 
 [STATE / CONTINUATION]
-Register GitHub branch receipts; Drive mirror receipt; don't treat GitHub as the canonical source of older works without approval. Consult MANIFEST and PROJECT-CONTROL for latest state. Central Drive 00Agents registration pending separate receipt.
+Register GitHub branch receipts; Drive mirror receipt; don't treat GitHub as the canonical source of older works without approval. Consult MANIFEST and PROJECT-CONTROL for latest state. Central Drive 00Agents registration VERIFIED at 18BqnKfdnzcDg4EtzrUWz8BVaZnvrDDmZZLXAcRQa-LE.
 
 Signed: NACAR
+[08. VERIFIED CROSS-SURFACE RECEIPT — 2026-10-30]
+GitHub: private shaneturon3-web/toi; 12 original book branches (editorial fiches), B09 full original manuscript, two distinct recent novels BX10/BX11 in own branches, independent branch with one full novel; three tool branches with versioned skills/tests.
+Drive root: https://drive.google.com/drive/folders/1o56sfVZO45msrXwvvknO0VW1IDn3hj_6
+Drive live MANIFEST: https://docs.google.com/document/d/1afDjjeg-pP2_i00JniriYhHreox18O3b7HS7PzcIiXI/edit
+Drive live PROJECT-CONTROL: https://docs.google.com/document/d/1bAC-ySRHYpIbQgkuUJd1NM8Y0uwPJXDYiLQujiI0Nvc/edit
+00Agents central registration: https://docs.google.com/document/d/18BqnKfdnzcDg4EtzrUWz8BVaZnvrDDmZZLXAcRQa-LE/edit (00Agents/Project-Memory/TOI)
+Drive verified manuscript doc IDs: B09=1wBDdPJ_GpAeTxZQM87W8dCqtzKLyEMp8YlkkOdx7PiE; BX10=1W7wmoUoM1Ql11kZ8I64mTw26BRSecW8soGXqHXZHpl4; BX11=1JN8TZ7nCmUzwg_76bxaWrwZ3G9S3HUmMNseyt6RXtCs; IND01=1ziLSPmUYYOeo450A0uoqeYzqsN8-t_JwVZ0z41iza2A.
+OpenAI personal Library root: /The Unfinished Inheritance; 12 original fiches, 4 full manuscripts, catalogue and Retroingenieria plugin v0.1/v0.2 ZIPs successfully uploaded (verified library_file_id receipts).
+Library manuscript IDs: B09=libfile_994e1c14f09c8191b839d6df76693f9a; BX10=libfile_16f8284625d8819194ceffc5fc41fca9; BX11=libfile_35022669e1cc8191b8ef0e6ada4d6467; IND01=libfile_cbbaa1e34bfc8191ba89ab9bf8e35133.
+Library tool archive IDs: Retro-v0.1=libfile_c4551ee139c081919eb03548cfb6464c; Retro-v0.2=libfile_53faf0df1c008191bff2a91b011b3c26.
+Content test: four full manuscript GitHub vs Drive reads matched after normalization of Google Docs extra paragraph breaks. NOT byte-identical Docs export. Original Library file snapshots may have trivial boundary-newline differences from stitched GitHub text. Never claim hash equality without hash measurement.
+Muse Library: ACCESS NOT VERIFIED; no write claimed. No automated synchronization exists between these surfaces. Version IDs/path correspondence is a manually maintained convention.
