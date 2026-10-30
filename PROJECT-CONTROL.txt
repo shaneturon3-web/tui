@@ -1,0 +1,41 @@
+TOI — PROJECT-CONTROL
+Version: 0.1.0 | Date: 2026-10-30 | Status: ACTIVE / DEVELOP
+Project: The Unfinished Inheritance | Moto: The Order Is Not the Origin.
+Architect/operator alias: NACAR | Authority: User instruction 2026-10-30; no silent canon promotion.
+
+[OBJECTIVE]
+Preservar, versionar y desarrollar la serie Los mundos que no se pusieron de acuerdo, sus obras independientes y las herramientas de construcción, prueba y revisión. Arquitectura estable entre GitHub, Google Drive y bibliotecas.
+
+[DESIGN / ARCHITECTURE]
+main: README.md; MANIFEST.txt; PROJECT-CONTROL.txt; 00Agents/TOI-REGISTRO.txt; editorial/00_Catalogo_editorial_v0.1.md.
+book: books/<id>-<slug> branch and books/<id>-<slug>/manuscripts/vX.Y.Z.md; tests/ only if actual fixtures exist.
+independent: independent branch, independent/<slug>/manuscripts/vX.Y.Z.md.
+tools: tools/<slug> branch, tools/<slug>/versions/vX.Y.Z/ sources/tests/references actually available.
+A branch is a distinct working line, not a new repository nor proof of publication. Never overwrite another title on coincident numeral.
+
+[PLANS]
+P-01 [AUTHORIZED/EXECUTE] Bootstrap repo and register agent/project in 00Agents.
+P-02 [AUTHORIZED/EXECUTE] Ingest the 12 metanthology manuscript sources as 12 independent book branches, keep original catalogue.
+P-03 [AUTHORIZED/EXECUTE] Ingest new X and XI as separate branches, preserve collision.
+P-04 [AUTHORIZED/EXECUTE] Ingest verified independent novel into shared independent branch.
+P-05 [AUTHORIZED/EXECUTE] Install versioned source/testing assets into per-tool branches; record unexecuted tests accurately.
+P-06 [AUTHORIZED/EXECUTE WHERE POSSIBLE] Establish same semantic path/identity convention for Drive, OpenAI and Muse library; only mark copies actually observed.
+P-07 [RELEVANT/PENDING] Read-back verification: compare exact text, branches, tests, manifest refs, Drive mirror IDs, library versions.
+
+[ESCALETA / EDITORIAL MAP]
+E-01 [SOURCE / v0.1] editorial/00_Catalogo_editorial_v0.1.md — 12 provisional books, three cycles of four.
+E-02 [NOT PRODUCED] Detailed per-book escaleta: do not invent.
+M-01 [NOT PRODUCED] Maps/diagrams: no verified artifact yet; no empty maps directory.
+D-01 [SOURCE] This file: architecture/control and branch relationships; does not convert future plans into completed work.
+
+[SEMANTIC HAZARDS]
+Book numbers X/XI overlap with titles from the 12-book projection. Do not merge aliases by number. The independent Los nombres que no cabían en la caja may be stored in a file named Carta de un muerto.txt; use the content title, keep source filename as provenance.
+Source corpus may be draft or generated. Do not label canon. Tests designed are not tests run. Avoid propagating private user identity into repository outside role/alias.
+
+[ACCEPTANCE]
+Each populated branch has full nonempty source, correct path, verified readback. Main manifest points to published files. Drive and Library mirrors are independently verified rather than presumed.
+
+[NEXT]
+Continue editorial development only after inventory is proven. Any new document gets semantic ID/version/path and update to the same control record. Preserve original language.
+
+Signature: NACAR | 2026-10-30
