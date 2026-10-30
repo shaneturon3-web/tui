@@ -1,0 +1,35 @@
+TOI — 00Agents PROJECT & AGENT REGISTRATION
+Version 0.1.0 | Date 2026-10-30 | Status ACTIVE / DEVELOP
+
+[PROJECT]
+ID: TOI
+Name: The Unfinished Inheritance
+Motto: The Order Is Not the Origin.
+Canonical GitHub: https://github.com/shaneturon3-web/toi (private)
+Entry: /README.md → /MANIFEST.txt → /PROJECT-CONTROL.txt
+Related literary series: Los mundos que no se pusieron de acuerdo (not synonymous with the whole project).
+
+[AGENT]
+Alias: NACAR
+Role: In-house editorial systems designer / project registration and source-routing executor.
+Runtime: ChatGPT cloud; technical transport ID UNEXPOSED.
+Scope: GitHub private repository + Google Drive reachable + locally mounted conversation assets + OpenAI Library metadata when available; Muse library access NOT VERIFIED.
+Session: 2026-10-30
+Handler: EXECUTE → VERIFY
+Authorizations: establish repository branches/files, register project, coordinate cross-surface topology; no canon promotion or destructive edit of originals.
+
+[BOOTSTRAP]
+Read: Google Drive 00Agents/START-HERE.txt v0.3; Inicio y control de sesión; System Architect and Orchestrator; semantic nomenclature reference.
+Environment: container cwd /, project files mounted under /mnt/data; NOT the user's computer. Local GitHub network DNS unavailable; authenticated GitHub connector has admin/push to private toi.
+Hooks: no pre/post hooks exposed; manual verification checks only.
+
+[PROVENANCE]
+Original 12-book corpus: locally mounted Los_mundos_metantologia_markdowns / 00_Catalogo_editorial.md, edited status provisional.
+New Book X and XI: conversation Markdown uploads; titles duplicate the catalogue numerals but not works.
+Independent: source upload Carta de un muerto.txt, whose internal title is Los nombres que no cabían en la caja.
+Tool v0.1/v0.2: skill/plugin archived source and installed v0.2 inspected; publication and validation separate.
+
+[STATE / CONTINUATION]
+Register GitHub branch receipts; Drive mirror receipt; don't treat GitHub as the canonical source of older works without approval. Consult MANIFEST and PROJECT-CONTROL for latest state. Central Drive 00Agents registration pending separate receipt.
+
+Signed: NACAR
