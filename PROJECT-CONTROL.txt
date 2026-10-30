@@ -8,17 +8,17 @@ Preservar, versionar y desarrollar la serie Los mundos que no se pusieron de acu
 
 [DESIGN / ARCHITECTURE]
 main: README.md; MANIFEST.txt; PROJECT-CONTROL.txt; 00Agents/TOI-REGISTRO.txt; editorial/00_Catalogo_editorial_v0.1.md.
-book: books/<id>-<slug> branch and books/<id>-<slug>/manuscripts/vX.Y.Z.md; tests/ only if actual fixtures exist.
+book: books/<id>-<slug> branch; editorials in books/<id>-<slug>/editorial/ficha-vX.Y.Z.md, only verified full narrative in books/<id>-<slug>/manuscripts/vX.Y.Z.md; tests/ only if actual fixtures exist.
 independent: independent branch, independent/<slug>/manuscripts/vX.Y.Z.md.
 tools: tools/<slug> branch, tools/<slug>/versions/vX.Y.Z/ sources/tests/references actually available.
 A branch is a distinct working line, not a new repository nor proof of publication. Never overwrite another title on coincident numeral.
 
 [PLANS]
 P-01 [AUTHORIZED/EXECUTE] Bootstrap repo and register agent/project in 00Agents.
-P-02 [AUTHORIZED/EXECUTE] Ingest the 12 metanthology manuscript sources as 12 independent book branches, keep original catalogue.
-P-03 [AUTHORIZED/EXECUTE] Ingest new X and XI as separate branches, preserve collision.
-P-04 [AUTHORIZED/EXECUTE] Ingest verified independent novel into shared independent branch.
-P-05 [AUTHORIZED/EXECUTE] Install versioned source/testing assets into per-tool branches; record unexecuted tests accurately.
+P-02 [EXECUTED/VERIFY READBACK] Ingest 12 original EDITORIAL FICHES (not complete books) as separate branches. Book IX additionally has full original narrative text. Retrieve full texts of the other 11 from authoritative sources before claiming manuscripts.
+P-03 [EXECUTED/VERIFY READBACK] Ingest new X and XI as separate branches, preserve collision.
+P-04 [EXECUTED/VERIFY READBACK] Ingest verified independent novel into shared independent branch.
+P-05 [EXECUTED/VERIFY READBACK] Install versioned source/testing assets into per-tool branches; record unexecuted tests accurately.
 P-06 [AUTHORIZED/EXECUTE WHERE POSSIBLE] Establish same semantic path/identity convention for Drive, OpenAI and Muse library; only mark copies actually observed.
 P-07 [RELEVANT/PENDING] Read-back verification: compare exact text, branches, tests, manifest refs, Drive mirror IDs, library versions.
 
