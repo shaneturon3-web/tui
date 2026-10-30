@@ -12,18 +12,21 @@ PROJECT-CONTROL.txt — diseño, planes, escaletas, mapas y estado de ejecución
 editorial/00_Catalogo_editorial_v0.1.md — fuente editorial, proyección no canon
 
 [01. BOOKS — PROYECCIÓN ORIGINAL DE DOCE]
-B01 | branch books/01-el-verano-de-los-errores-aceptables | books/01-el-verano-de-los-errores-aceptables/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B02 | branch books/02-la-sociedad-de-los-cerdos-invisibles | books/02-la-sociedad-de-los-cerdos-invisibles/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B03 | branch books/03-los-ninos-que-vendian-mapas-falsos | books/03-los-ninos-que-vendian-mapas-falsos/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B04 | branch books/04-la-ciudad-que-compro-su-propia-sombra | books/04-la-ciudad-que-compro-su-propia-sombra/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B05 | branch books/05-los-lobos-que-olvidaron-correr | books/05-los-lobos-que-olvidaron-correr/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B06 | branch books/06-el-jardin-de-los-animales-incorrectos | books/06-el-jardin-de-los-animales-incorrectos/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B07 | branch books/07-la-huelga-de-las-cosas-utiles | books/07-la-huelga-de-las-cosas-utiles/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B08 | branch books/08-la-casa-de-los-nombres-prestados | books/08-la-casa-de-los-nombres-prestados/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B09 | branch books/09-los-fabricantes-de-guerras-pequenas | books/09-los-fabricantes-de-guerras-pequenas/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B10 | branch books/10-los-hijos-de-las-historias-equivocadas | books/10-los-hijos-de-las-historias-equivocadas/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B11 | branch books/11-la-ultima-imprenta-del-universo | books/11-la-ultima-imprenta-del-universo/manuscripts/v0.1.0.md | DRAFT / NOT CANON
-B12 | branch books/12-el-mundo-que-no-quiso-ser-encontrado | books/12-el-mundo-que-no-quiso-ser-encontrado/manuscripts/v0.1.0.md | DRAFT / NOT CANON
+B01 | branch books/01-el-verano-de-los-errores-aceptables | books/01-el-verano-de-los-errores-aceptables/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B02 | branch books/02-la-sociedad-de-los-cerdos-invisibles | books/02-la-sociedad-de-los-cerdos-invisibles/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B03 | branch books/03-los-ninos-que-vendian-mapas-falsos | books/03-los-ninos-que-vendian-mapas-falsos/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B04 | branch books/04-la-ciudad-que-compro-su-propia-sombra | books/04-la-ciudad-que-compro-su-propia-sombra/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B05 | branch books/05-los-lobos-que-olvidaron-correr | books/05-los-lobos-que-olvidaron-correr/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B06 | branch books/06-el-jardin-de-los-animales-incorrectos | books/06-el-jardin-de-los-animales-incorrectos/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B07 | branch books/07-la-huelga-de-las-cosas-utiles | books/07-la-huelga-de-las-cosas-utiles/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B08 | branch books/08-la-casa-de-los-nombres-prestados | books/08-la-casa-de-los-nombres-prestados/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B09 | branch books/09-los-fabricantes-de-guerras-pequenas | books/09-los-fabricantes-de-guerras-pequenas/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B10 | branch books/10-los-hijos-de-las-historias-equivocadas | books/10-los-hijos-de-las-historias-equivocadas/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B11 | branch books/11-la-ultima-imprenta-del-universo | books/11-la-ultima-imprenta-del-universo/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+B12 | branch books/12-el-mundo-que-no-quiso-ser-encontrado | books/12-el-mundo-que-no-quiso-ser-encontrado/editorial/ficha-v0.1.0.md | EDITORIAL FICHE / NOT FULL MANUSCRIPT / NOT CANON
+
+[01b. VERIFIED FULL ORIGINAL TEXT]
+B09 | branch books/09-los-fabricantes-de-guerras-pequenas | books/09-los-fabricantes-de-guerras-pequenas/manuscripts/v0.1.0.md | FIRST NARRATIVE RUN / DRAFT
 
 [02. BOOKS — AMPLIACIONES, COLISIONES DE NUMERACIÓN PRESERVADAS]
 BX10 | branch books/10-la-ciudad-que-aprendio-a-perder | books/10-la-ciudad-que-aprendio-a-perder/manuscripts/v0.1.0.md | DRAFT; distinto del B10 original
@@ -49,5 +52,5 @@ OpenAI Library / Muse Library: no declarar sincronización sin recibo específic
 El catálogo de doce libros es una PROYECCIÓN EDITORIAL, no canon retroactivo. Las versiones posteriores X y XI son obras distintas con numeración en conflicto. Conservamos su título y procedencia sin sustitución silenciosa. Test = sólo si existe archivo; no crear resultados de test imaginarios.
 
 [07. STATE]
-Registro inicial: 2026-10-30. Ejecutar verificación de rutas, hashes y ramas en los recibos de publicación. Los enlaces aquí son rutas deseadas hasta confirmación individual.
+Registro inicial: 2026-10-30. Ejecutar verificación de rutas, hashes y ramas en los recibos de publicación. Los archivos registrados en 01/01b/02/03/04 fueron enviados a sus ramas; readback y espejo Drive son verificaciones separadas.
 — NACAR
