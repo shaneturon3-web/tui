@@ -1,6 +1,6 @@
 ---
 name: stable-kultur-for-worlds-and-clades
-version: 0.1.0
+version: 0.1.1
 scope: worldbuilding / clade architecture / cultural stability
 status: TEST-READY / NOT CANON
 description: Construct stable cultural substrates for worlds and clades by preserving invariants under variation and pressure.
@@ -363,6 +363,18 @@ Do not treat each user correction as a request for a smoother restatement. If a 
 - What can the next generation actually reconstruct and transmit?
 - Does the provisional name keep the cause open, or smuggle one in?
 - Which attack changed the model, and which disagreement remains unresolved?
+
+### Review 0.1.1 — 2026-11-02 15:16 EST (America/Toronto)
+
+This revision makes three distinct relations explicit. It preserves the skill's existing TEST-READY / NOT CANON status and does not promote a Kultur or a historical hypothesis.
+
+**Recurrence is not Kultur continuity.** Under shared material or environmental constraints, a visible form, function, problem-solving capacity or social role may emerge independently. Similarity alone does not establish common ancestry or a shared Kultur. When a lineage or transfer is claimed, identify its carrier and transmission path; when that path is unknown, retain convergence and other explanations as live alternatives.
+
+**Artifact persistence is not living transmission.** A monument, archive, slogan or tool can outlast its makers while the practical knowledge and obligations that gave it function disappear. Call Kultur continuity only where members can reconstruct and use the relevant relations, transmit them to others, and renew or repair them under pressure. A copied surface or durable remnant is not enough.
+
+**A recurring capacity does not replace a singular history.** Distinguish the recurrence of a capability or role from the exact person, event, clade and path that realized it. Keep the clade when comparing convergent outcomes. Claims that a technological window is unique or irrecoverable remain hypotheses unless supported by evidence beyond the analogy.
+
+Apply these distinctions in construction, recognition, transmission and pressure tests. Do not merge form, function, lineage and Kultur into one continuity score.
 
 ## Failure boundaries
 
