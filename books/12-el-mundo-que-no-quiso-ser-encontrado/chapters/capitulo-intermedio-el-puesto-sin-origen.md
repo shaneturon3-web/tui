@@ -5,6 +5,10 @@
 Candidato, no canon. No adyacente a La estación que no estaba: otro lugar, otros
 personajes, sin continuación directa. No es la misma estación ni la misma
 cartógrafa. Aquí nadie pide un mapa del mundo, y nadie lo niega con un discurso.
+Corrección 2026-11-02, por lectura del crítico: se quitó la frase explícita de
+Mara sobre afilar sin conocer el origen, y se añadió el costo profesional del
+funcionario — pierde la ruta de inspecciones y el suplemento, queda solo con
+los sábados por las cajas.
 
 ---
 
@@ -96,12 +100,17 @@ Ese día, Mara vendió tres manzanas, dos telas y un cuchillo. El hombre no
 anotó nada. Al cerrar, Mara le dio el cuchillo que quedaba, no el mejor, sino
 el que tenía el mango gastado, y le dijo:
 
-—Para afilar, si quieres aprender. No hace falta que sepas de dónde viene el
-hierro para afilarlo.
+—Para afilar, si quieres aprender.
 
-El hombre se llevó el cuchillo. No volvió con la carpeta. Volvió los sábados,
-a cargar cajas. A veces traía pan del horno de la esquina. A veces Mara le
-daba una manzana. Nunca volvieron a hablar del origen. El puesto siguió al
+El hombre se llevó el cuchillo. A la semana siguiente vino otro funcionario,
+más joven, con la misma carpeta. Miró el puesto, miró al hombre cargando
+cajas, y le preguntó por los formularios del mercado que faltaban. El hombre
+no dijo que los había dejado en blanco. Dijo que ese mercado ya no era suyo.
+El joven anotó algo, se llevó la carpeta, y al lunes siguiente el hombre ya
+no cobraba el suplemento por inspecciones. Cobraba solo los sábados, por las
+cajas, y eso era menos. No se quejó. Siguió viniendo los sábados, a cargar
+cajas. A veces traía pan del horno de la esquina. A veces Mara le daba una
+manzana. Nunca volvieron a hablar del origen. El puesto siguió al
 final del mercado, donde el suelo pasaba de piedra a tierra, sin cartel, con
 una mesa, dos cestas y una balanza vieja que pesaba de más por un lado. Y
 cuando alguien nuevo preguntaba de dónde eran las cosas, Mara decía lo mismo
