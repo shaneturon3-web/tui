@@ -7,6 +7,10 @@ ya copiados: otro sector, otra cuidadora, otro animal, sin continuación directa
 de ninguna escena anterior.
 Rama de continuidad: Jardín terrestre, organización Vivaria, como en Las etiquetas.
 No es la rama orbital Itala de Censo de muda. Las ramas no se fusionan.
+Corrección 2026-11-02, por lectura del crítico: se quitó la enumeración del
+sistema hidráulico en el penúltimo tramo, y se añadió un costo visible — otro
+trabajador lee la hoja, se lleva el depósito viejo, el estanque baja un día y
+Inés lleva agua en cubos. La caja final queda intacta.
 
 ---
 
@@ -116,12 +120,17 @@ Inés miró el filtro, el depósito viejo, el estanque.
 
 —Todo en su sitio —dijo.
 
-No era verdad, y era verdad. El filtro no estaba en su sitio. El agua no iba
-por donde debía ir. Los limpiadores no limpiaban solo los tubos: también
-hacían nidos, también desviaban el agua, también alimentaban, sin querer, a
-unos patos que no existían en ningún papel. Pero el depósito dos tenía agua, el
-tres no rebosaba, y el que volvía, esa tarde, estaba otra vez en la rejilla,
-con las patas en el borde, mirando hacia fuera.
+No era verdad, y era verdad. El agua no iba por donde debía ir. Pero el
+depósito dos tenía agua, el tres no rebosaba, y el que volvía estaba otra
+vez en la rejilla, con las patas en el borde, mirando hacia fuera.
+
+Al día siguiente, un trabajador de otro sector leyó la hoja, vio «depósito
+viejo en el estanque» y se llevó ese depósito, porque pensó que sobraba.
+El estanque bajó durante el día. Inés tuvo que llevar agua en cubos desde el
+depósito tres, dos viajes, con las manos mojadas y la hoja todavía en el
+bolsillo. Por la tarde, el trabajador devolvió el depósito, sin decir nada,
+y lo dejó donde estaba. El estanque volvió a subir despacio, pero Inés ya
+sabía que la hoja que había escrito podía leerse de otra forma.
 
 Inés no escribió su nombre. Escribió, en la última línea de la hoja, debajo de
 los números:
