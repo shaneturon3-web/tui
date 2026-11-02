@@ -1,0 +1,10 @@
+name: local_hidden_pressure_fiction_adapter
+title: Local hidden pressure fiction adapter
+description: Translate abstract operator outputs into embodied literary pressure before drafting or revising fiction. Use when provenance, route, contradiction, carrier, preservation, selection, or similar mechanism language is making prose feel designed, doctrinal, or centered on one mystery. Especially useful for TOM/oblique stories, but not TOM-specific.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
