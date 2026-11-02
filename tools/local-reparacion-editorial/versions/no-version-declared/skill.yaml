@@ -1,0 +1,7 @@
+name: local_reparacion_editorial
+title: Local reparacion editorial
+description: Capitalizar la intervención editorial para mejorar la pieza (ritmo, tono, equilibrio) en cualquier escala — línea, párrafo, nodo, plot local, arco — mediante paráfrasis verificada en cuatro criterios (Función, Voz, Continuidad, Economía); reforzar no es añadir palabras.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
