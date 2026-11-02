@@ -5,6 +5,9 @@
 Candidato, no canon. No adyacente a La casa que espera: otro lugar, otros
 personajes, sin continuación directa. No es el mismo edificio ni el mismo sistema.
 La barrera de este capítulo no es el ascensor de aquel capítulo.
+Corrección 2026-11-02, por lectura del crítico: se quitaron la máxima de Eva
+sobre no necesitar saber por qué, y la definición de avería; quedan solo horas,
+nombres y lo visto.
 
 ---
 
@@ -64,8 +67,9 @@ horas. Esa noche, en su casa, escribió en un papel aparte, que no era el libro:
 "Martes: pescador sí, mensajero no. Miércoles: mujer y niño sí, camión no.
 Jueves: maleta pequeña sí, dos maletas no."
 
-No escribió por qué. No lo sabía. Y, de pronto, le pareció que no tenía que
-saberlo para trabajar.
+No escribió por qué. Escribió las horas y los nombres, dobló el papel y lo
+guardó en el cajón, junto a los billetes sin vender. Al día siguiente volvió
+a la ventanilla a la misma hora.
 
 El viernes por la mañana, Eva no pudo ir. Tenía fiebre, y llamó a Tomás, que
 a veces la sustituía. Tomás llegó, abrió la ventanilla, y la barrera hizo lo
@@ -94,8 +98,8 @@ Eva miró la barrera. Estaba bajada. Detrás, un hombre esperaba con una cesta
 de pan. La barrera subió. El hombre pasó, dejó una barra en la ventanilla, sin
 que Eva se la pidiera, y subió al ferri.
 
-—No es avería —dijo Eva—. Una avería no deja pasar a unos y a otros no. Una
-avería se queda quieta.
+—Hoy deja pasar a este —dijo Eva—. Ayer no dejó pasar al otro. Eso es lo
+que vi.
 
 El encargado se encogió de hombros y se llevó la hoja sin rellenar.
 
