@@ -1,0 +1,23 @@
+name: local_manufacturing_lexical_boundary
+title: Local manufacturing lexical boundary
+description: Hold a mandatory lexical gate before any surface prose ships, keeping doctrine vocabulary, borrowed jargon and register contamination out of the scene and cutting any beautiful sentence that carries no action.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: false
+  evidence_handles:
+  - skill_inventory:local_manufacturing_lexical_boundary rev 49806bc5facd6e3544f0fc6e96dc53eb6db03ce88bc994bec15086bed82c3075
+  - read:~/workspace/custom-skills/local-manufacturing-lexical-boundary/SKILL.md 2026-10-15
+  - read:~/workspace/custom-skills/local-manufacturing-lexical-boundary/skill.yaml 2026-10-15
+  measurement:
+    proxy_metric_id: skill_discovery_relevance
+    success_criterion: At least one genuine invocation of a previously-zero-use recovered skill (retrieved via skill search or listed and then read/used) in the window, or documented evidence the new descriptions changed retrieval ranking; no regression in unrelated skill selection.
+    window_days: 14
+  rationale: 'Same finding as the other five updates in this batch: substantive SKILL.md body read in full 2026-10-15, placeholder skill.yaml discovery description. The new description names the mandatory gate, the pass/fail shape (doctrine/jargon/register out; the brilliance test) and the when-to-use (before surface prose ships). Only the description field changes; name, title, include_in_prompt, availability and learning history preserved; needs_review cleared as this audit performed the review.'
+  review_after: 2026-10-29T00:33:09.120218+00:00
+  reviewed_at: 2026-10-15T00:33:09.120218+00:00
+  run_id: sirun_d757f757359240d6b1445e057d1ff40c
+  status: active
