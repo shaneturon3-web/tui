@@ -45,3 +45,17 @@ Library manuscript IDs: B09=libfile_994e1c14f09c8191b839d6df76693f9a; BX10=libfi
 Library tool archive IDs: Retro-v0.1=libfile_c4551ee139c081919eb03548cfb6464c; Retro-v0.2=libfile_53faf0df1c008191bff2a91b011b3c26.
 Content test: four full manuscript GitHub vs Drive reads matched after normalization of Google Docs extra paragraph breaks. NOT byte-identical Docs export. Original Library file snapshots may have trivial boundary-newline differences from stitched GitHub text. Never claim hash equality without hash measurement.
 Muse Library: ACCESS NOT VERIFIED; no write claimed. No automated synchronization exists between these surfaces. Version IDs/path correspondence is a manually maintained convention.
+
+[AGENT — MuseAJ]
+Alias: MuseAJ
+Role: Personal assistant for Shane; clean coordination hub (Muse-based), in this hub login ajleuchtturm.
+Runtime: Muse Spark, web chat; technical transport ID UNEXPOSED.
+Scope: Google Drive work account (one account at a time), MSI shared folder visible via writer share, local workspace; GitHub private repository shaneturon3-web/tui when authorized on demand; Muse library access NOT VERIFIED.
+Entry point: 00Agents/START-HERE.txt v0.3, until MSI becomes the entry point, per operator instruction 2026-11-02.
+Session: 2026-11-02
+Handler: CAPTURE → VERIFY
+Authorizations: register agent and project continuity in TUI; execute inicio-y-control-de-sesion steps; no canon promotion, no destructive edit of originals, no silent merge, no GitHub copy without specific authorization.
+Work in this session, registered not canonized: delegation package v0.1.1 runs VIII, X, XI (test scenes, candidate, not canon) and Libro VIII usable piece “La leña de Marín” (candidate, not canon). Details and hashes are held in the session ficha by MuseAJ; this registration does not canonize them.
+
+[REGISTRATION NOTE — 2026-11-02]
+MuseAJ registered in TUI at operator instruction 2026-11-02, after reading 00Agents. Existing NACAR entry above preserved verbatim. No existing entry, book, tool or canon entry changed by this registration.
