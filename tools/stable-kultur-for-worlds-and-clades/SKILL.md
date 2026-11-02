@@ -319,6 +319,51 @@ provenance: []
 promotion_receipt: ""
 ```
 
+
+## Provisional names, Kultur continuity, and adversarial dialogue
+
+> **Insertion note — 2026-11-02 14:58 EST (America/Toronto).** Conversation capture added as a working extension after the recent Die Kultur/Kultur research. This note does not change this skill's TEST-READY / NOT CANON status, promote a hypothesis, or make the examples canon.
+
+### Name the unknown without deciding its cause
+
+A provisional name can make a pattern available for comparison, manipulation and boundary testing before its ontology or cause is known. It is a handle, not proof. Röntgen's “X” is the model: preserve the observed phenomenon as an object of inquiry while withholding a causal story that could redirect or prematurely close the investigation.
+
+Keep separate:
+
+- observed phenomenon;
+- provisional name;
+- proposed explanation;
+- evidence that would distinguish explanations;
+- open alternatives.
+
+A name may be wrong and still be useful if its provisional status remains visible and it helps ask better questions. It becomes a failure when the label hardens into an assumed entity or imports a causal account the evidence has not earned.
+
+### Distinguish recurring form from transmitted Kultur
+
+When a structure or capability appears in separate lineages, specify what recurs: visible form, function, underlying problem, capability, social role, or a particular historical event. Similarity under shared constraints does not establish common ancestry, identical function, or continuity of Kultur. Preserve the clade and the path by which each instance arose.
+
+An enduring artifact can outlast its makers without carrying forward the living knowledge that made it. A pyramid-like form may recur for different reasons; that does not imply the recurrence of the political, ethical, technical or intergenerational system that produced a specific civilization. Conversely, complex infrastructure and technologies depend on particular chains of material access, accumulated practice, instruments, institutions and transmission. Their recovery cannot be inferred from the recurrence of simpler forms.
+
+Use the distinction:
+
+`artifact persists ≠ usable knowledge transfers ≠ Kultur continues`
+
+The archive may retain an object or slogan after its function has died. Test whether later members can reconstruct and use the relation, teach it onward, repair it under pressure, and recognize when the surface remains but the function has changed. Claims that a technological window is unique or will close remain risk hypotheses until supported independently.
+
+### Put an idea under pressure from several sides
+
+A research or editorial conversation can work as a noncompetitive sequence: expose a candidate idea; attack it; examine and attack the critique; defend or revise the idea from another angle; then keep the unresolved vectors visible. The purpose is to reveal load-bearing assumptions and possibilities, not to win or force a synthesis.
+
+Do not treat each user correction as a request for a smoother restatement. If a correction shows that the current model is wrong, change the model and state what distinction now governs the work. Delay synthesis while competing explanations still change the decision. Keep evidence, inference, user correction and speculation distinguishable.
+
+### Test prompts
+
+- What exactly recurs, and what evidence supports that level of recurrence?
+- Does the carrier survive while its function, knowledge or obligation disappears?
+- What can the next generation actually reconstruct and transmit?
+- Does the provisional name keep the cause open, or smuggle one in?
+- Which attack changed the model, and which disagreement remains unresolved?
+
 ## Failure boundaries
 
 - Do not derive a Kultur from phenotype, species label or aesthetic mood.
