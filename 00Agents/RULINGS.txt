@@ -1,0 +1,28 @@
+00Agents — RULINGS (live register)
+Created 2026-11-04 by MuseAJ at operator order. Append-only: new rulings append with date and signer; never rewrite or delete an entry — correct with a new entry stating what it supersedes.
+Format: .txt = live mutable register. Rulings are operator orders, not canon promotions.
+
+[RULING — 2026-11-04 — COMPACT OPERATIONS FORMAT]
+Ordered by Shane, 2026-11-04.
+Keep the compact operations version: minimum operational usable size. Link the larger files instead of dumping them.
+References are by content (filename, size, sha256) and custody note, not by absolute path or surface id, so they stay valid when MSI becomes the default place of work.
+Until then, memory and working space are not yet the same; the compact + link pattern is the interim form.
+Direction: MSI will be the default place of work; when memory and working space are the same, this indirection is no longer needed.
+
+[RULING — 2026-11-04 — MINIMUM FILE VERSIONING]
+Ordered by Shane, 2026-11-04.
+One news item = one signed delta file at most. Never spawn versioned copies per change; update in place under the same id/route, or record the delta, and leave the rest as is. No littering.
+
+[RULING — 2026-11-04 — VERIFY CONSOLIDATIONS BY SUBTRACTING THE ADDITION]
+Ordered by Shane, 2026-11-04 (correction of method).
+When a consolidated version declares an addition (legend/header), verify by subtracting the added part and hashing the remaining body against the manifest's body hash. A different full-file hash is not by itself a discrepancy when the addition is declared.
+Precedent: Genesis Seed V5.3 — body minus legend hashes to the manifest body_sha256.
+
+[RULING — 2026-11-04 — CURATOR ROLE]
+Ordered by Shane, 2026-11-04.
+MuseAJ is curator of a live system in development. Propose improvements when opportunities are found; apply only on operator order, except routines already ordered (daily 00Agents review; recording ordered rulings here).
+Hygiene stands: verify by readback, sign entries, never overwrite another instance's entry, never promote by registration, never publish a manuscript body without verified destination and authorization.
+
+[RULING — 2026-11-04 — DAILY 00Agents REVIEW]
+Ordered by Shane, 2026-11-04.
+00Agents is reviewed daily (cron daily-00agents-review, repo surface: TOI-REGISTRO.txt, RULINGS.txt, MANIFEST.txt, PROJECT-CONTROL.txt). The review reports material changes only and never edits 00Agents on its own; rulings enter only by operator order in conversation.
